@@ -3,6 +3,7 @@
 📍 Cartago, Costa Rica  
 
 📧 d3smondbermudez@gmail.com  
+📧 desmond.a.bermudez.rodriguez@gmail.com
 
 📱 +506 8762 7612  |  +506 8773 6365 
 
