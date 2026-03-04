@@ -57,9 +57,8 @@ Desarrollarme en el área de Big Data y análisis de datos, participando en proy
 - Visual Studio
 - Visual Studio Code
 - Antigravity
-- Android Studio
 - PyCharm
-- n8n (automatización de flujos)
+- n8n 
 - Fundamentos de Machine Learning
 - Conceptos introductorios de Big Data
 
