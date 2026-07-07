@@ -13,11 +13,11 @@
 
 ## 🚀 Perfil Profesional
 
-Estudiante de Big Data con enfoque en análisis, manipulación, gestión y presentacion de datos. Con conocimientos en SQL, Python, R y fundamentos de ingeniería de datos. Experiencia práctica en consultas relacionales, programación orientada a objetos, control de versiones con Git y uso de contenedores con Docker.
+Cientifico de datos con enfoque en análisis, manipulación, gestión y presentacion de datos. Con conocimientos en SQL, Python, R y fundamentos de ingeniería de datos. Experiencia práctica en consultas relacionales, programación orientada a objetos, control de versiones con Git y uso de contenedores con Docker.
 
 Poseo 8 años de experiencia laboral como técnico dental, desarrollando disciplina, precisión técnica y responsabilidad operativa. Actualmente en proceso de fortalecimiento en administración de bases de datos, automatización de flujos de trabajo y fundamentos de Machine Learning.
 
-Interesado en oportunidades como Big Data Jr., Data Analyst Jr. o roles de soporte en ingeniería de datos.
+Interesado en oportunidades como Big Data, Data Analyst, Data Scienties o roles de soporte en ingeniería de datos.
 
 ---
 
